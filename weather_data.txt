@@ -1,0 +1,2 @@
+march, 56.0°C, 45.0 mm
+january, 32.0°C, 32.0 mm
