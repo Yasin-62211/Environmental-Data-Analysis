@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./111.png" 
+       alt="Environmental Data Analysis"
+       width="100%">
+</p>
+
 # 🌍 Environmental Data Analysis
 
 ## 📌 Overview
